@@ -171,7 +171,7 @@ touch database/database.sqlite
 Open `.env`:
 
 ```bash
-nano .env
+vim .env
 ```
 
 Update these lines:
@@ -186,10 +186,7 @@ DB_CONNECTION=sqlite
 # DB_PASSWORD=
 ```
 
-Save with:
-
-* `Ctrl + O`, Enter
-* `Ctrl + X`
+Save this.
 
 ---
 
